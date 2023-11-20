@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# About
-
 I am a fourth year undergradaute student studying Applied Mathematics at UC San
 Diego (UCSD). I am also a [third culture kid
 (TCK)](https://en.wikipedia.org/wiki/Third_culture_kid), born in South Korea
@@ -34,4 +31,4 @@ If you have any questions or would like to collaborate, please don't
 hesitate to reach out to me.
 
 Fun Fact: I was a member of the lion dance team in my high school!
-![Lion Dance]("lion.jpg")
+![Lion Dance]('lion.jpg')
