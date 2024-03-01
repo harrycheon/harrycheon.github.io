@@ -16,7 +16,8 @@ My current interests lie in **artificial intelligence saftey and alignment, robu
 and interpretability in machine learning**.
 
 During my time as a student at UCSD, I have been fortunate enough to work with
-[Benjamin Smarr](https://sites.google.com/eng.ucsd.edu/smarrlab), [Zhiting
+[Berk Ustun](https://www.berkustun.com/), [Benjamin
+Smarr](https://sites.google.com/eng.ucsd.edu/smarrlab), [Zhiting
 Hu](http://zhiting.ucsd.edu/) and Intel Corporation.
 
 Also, I have been actively involved in the [Society of  Undergraduate
