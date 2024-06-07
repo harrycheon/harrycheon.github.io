@@ -13,7 +13,7 @@ Computer Science student at University of California, San Diego. I am also a
 [third culture kid (TCK)](https://en.wikipedia.org/wiki/Third_culture_kid), born
 in South Korea, but raised in Hong Kong since I was 10!
 
-My current interests lie in **artificial intelligence saftey and alignment, robustness
+My current interests lie in **artificial intelligence safety and alignment, robustness
 and interpretability in machine learning**.
 
 During my time as a student at UCSD, I have been fortunate enough to work with
