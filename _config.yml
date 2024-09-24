@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seung Hyun (Harry) Cheon"
 title_separator          : "-"
 name                     : &name "Seung Hyun (Harry) Cheon"
-description              : &description "Applied Mathematics Major at UC San Diego"
+description              : &description "MS CS @ UC San Diego"
 url                      : https://harrycheon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harrycheon/harrycheon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seung Hyun (Harry) Cheon"
   avatar           : "avatar.png"
-  bio              : "Research Assistant at UC San Diego"
+  bio              : "MS CS @ UC San Diego"
   location         : "San Diego, CA"
   employer         :
   pubmed           :
